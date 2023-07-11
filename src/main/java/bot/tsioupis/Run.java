@@ -70,7 +70,7 @@ public class Run{
         };
         t.start();
         //System.out.println(new File(".").getAbsolutePath());
-        System.out.println("done.");
+        //System.out.println("done.");
         //bot.getTextChannelById("994251916026597497").sendMessage("efsf").queue();
     }
 }
